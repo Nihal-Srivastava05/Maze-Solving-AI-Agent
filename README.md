@@ -1,5 +1,5 @@
 # Maze-Solving-AI-Agent
-
+<img src="mazeImg.jpg" width="1000" height="600" alt="img_maze">
 This repo basically has my journey to make an AI agent which solves mazes. I start our with the most basic agent - Simple reflex agent and move over to more complex agents like a model based reflex agent which has some percept history in it too. The code for all the agents can be found in the Agents folder where agent1 will be the most basic one and as we go higher they get better.
 
 Different agents present so far:
