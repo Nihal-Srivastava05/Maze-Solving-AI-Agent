@@ -6,6 +6,7 @@ Different agents present so far:
 1. Maze_Solver_Agent1 - It is a simple reflex agent with no random moves 
 2. Maze_Solver_Agent2 - It is a modal based agent with random moves and one level look back
 3. Maze_Solver_Agent3 - It is a modal based agent with a percept history of last branch
+4. Maze_Solver_Agent4 - It is a modal based agent which has a better memory as compared to agent3 and also stores the branches with previously visited sections of maze in it.
 
 ### Simulations:
 I have also written the code for visually simulating this agent and watching it run using pygame library. For more details on this open the 'Simulations' folder.
